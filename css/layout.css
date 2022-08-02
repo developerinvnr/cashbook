@@ -1,0 +1,408 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	background-color: #FFFFFF;
+	background-image:url("");
+	background-repeat:repeat-x;
+	margin:0px auto;
+}
+#mainContainer{
+	width:814px;
+	height:auto;
+	background-image:url("");
+	background-repeat:no-repeat;
+	margin-top:38px;
+	margin-left:95px;
+	padding:0px 45px 20px 45px;
+}
+#header{
+	width:700px;
+	height:125px;
+	padding-top:15px;
+	padding-left:20px;
+	padding-right:10px;
+	text-align:left;
+}
+#headerTop{
+	width:700px;
+	height:35px;
+	padding-top:5px;
+	padding-right:24px;
+	text-align:right;
+}
+#headerDwn{
+	width:714px;
+	height:55px;
+	padding-right:10px;
+	padding-top:5px;
+	text-align:left;
+}
+#topMenu{
+	width:724px;
+	height:44px;
+	background-image:url(../images/mstrp.gif);
+	background-repeat:repeat-x;
+}
+#topMenuCtr{
+	float:left;
+	width:684px;
+	height:36px;	
+	text-align:center;
+	padding-top:14px;
+}
+#topMenuLft{
+	float:left;
+	width:20px;
+	height:44px;
+	background-image:url("");
+	background-repeat:no-repeat;
+}
+#topMenuRgt{
+	float:left;
+	width:20px;
+	height:44px;
+	background-image:url("");
+	background-repeat:no-repeat;
+}
+#flshBnr{
+	width:724px;
+	height:213px;
+}
+#midContainer{
+	width:724px;
+	height:auto;
+	padding:10px 0px 10px 0px; 
+}
+#left{
+	float:left;
+	width:476px;
+	height:auto;
+	margin-right:10px;
+}
+#hmContent{
+	width:476px;
+	height:227px;
+}
+#hmCntLft{
+	float:left;
+	width:8px;
+	height:227px;
+	background-image:url(../images/contLftBG.jpg);
+	background-repeat:no-repeat;
+}
+#hmCntCtr{
+	float:left;
+	width:460px;
+	height:227px;
+	background-image:url(../images/contCtrBG.jpg);
+	background-repeat:repeat-x;
+}
+#hmCtrLft{
+	float:left;
+	width:85px;
+	height:180px;
+	padding-top:47px;
+	text-align:right;
+}
+#hmCtrRgt{
+	float:left;
+	width:359px;
+	height:204px;
+	padding:15px 8px 8px 8px;
+	line-height:18px;
+}
+#hmCntRgt{
+	float:right;
+	width:8px;
+	height:227px;
+	background-image:url(../images/contRgtBG.jpg);
+	background-repeat:no-repeat;
+}
+#rw2{
+	width:476px;
+	height:auto;
+	padding-top:15px;
+}
+#rw2Lft{
+	float:left;
+	width:150px;
+	height:auto;
+	padding-left:8px;
+}
+#rw2Rgt{
+	float:left;
+	width:150px;
+	height:auto;
+	border-left:1px solid #dddddd;
+	border-right:1px solid #dddddd;
+	padding-left:8px;
+}
+#right{
+	float:left;
+	width:218px;
+	height:auto;
+}
+#rgtContBX{
+	width:218px;
+	height:auto;
+}
+#rgtContTxt{
+	width:195px;
+	height:auto;
+	padding:8px 8px 8px 15px;
+	background-color:#FBF7EC;
+}
+#tstmnl{
+	width:195px;
+	height:auto;
+	padding-top:15px;
+}
+#tstMimg{
+	float:left;
+	width:80px;
+	height:auto;
+}
+#tstMcont{
+	float:left;
+	width:115px;
+	height:auto;
+}
+#nwst{
+	width:190px;
+	height:70px;
+	background-image:url(../images/newsltrBG.gif);
+	background-repeat:no-repeat;
+	padding-top:65px;
+	padding-left:28px;
+}
+#footer{
+	width:724px;
+	height:44px;
+	background-image:url(../images/footer.gif);
+	background-repeat:repeat-x;
+}
+#footLft{
+	float:left;
+	width:12px;
+	height:44px;
+	background-image:url("");
+	background-repeat:no-repeat;
+}
+#footCtr{
+	float:left;
+	width:700px;
+	height:36px;
+	padding-top:8px;
+	text-align:center;
+	line-height:15px;
+}
+
+#footRgt{
+	float:left;
+	width:12px;
+	height:44px;
+	background-image:url("");
+	background-repeat:no-repeat;
+}
+
+/*-- LEADERSHIP --*/
+#ldrBx{
+	float:left;
+	width:718px;
+	height:auto;
+	border:1px solid #D4A56D;
+	background-color:#FCF7ED;
+	padding:2px;
+}
+#ContUs{
+	width:700px;
+	height:auto;
+	background-color:#FDF2DF;
+	border:1px solid #D4A56D;
+	line-height:18px;
+	padding:8px;
+	margin-top:1px;
+	text-align:justify;
+}
+#ContentUnd{
+	width:700px;
+	height:400px;
+	background-color:#FDF2DF;
+	border:1px solid #D4A56D;
+	line-height:18px;
+	padding:8px;
+	margin-top:1px;
+	text-align:justify;
+}
+#ldrHed{
+	width:708px;
+	height:25px;
+	background-color:#D4A56D;
+	padding-left:10px;
+	padding-top:10px;	
+}
+#ldrContBX{
+	width:700px;
+	height:auto;
+	background-color:#FDF2DF;
+	border:1px solid #D4A56D;
+	line-height:18px;
+	padding:8px;
+	margin-top:1px;
+	text-align:justify;
+}
+#ldrContBxImg{
+	float:left;
+	width:200px;
+	height:auto;
+	text-align:center;
+}
+#ldrContBxDes{
+	float:left;
+	width:500px;
+	height:auto;
+}
+/*-- LEADERSHIP --*/
+
+
+/*-- FEEDBACK --*/
+#fdBx{
+	width:700px;
+	height:auto;
+	padding:10px 0px 0px 0px;
+}
+#fDTxt{
+	float:left;
+	width:240px;
+	height:30px;
+	text-align:right;
+}
+#fDInp{
+	float:left;
+	width:450px;
+	height:30px;
+	text-align:left;
+	padding-left:10px;
+}
+#fDTxtAr{
+	float:left;
+	width:240px;
+	height:100px;
+	text-align:right;
+}
+#fDInpAr{
+	float:left;
+	width:450px;
+	height:100px;
+	text-align:left;
+	padding-left:10px;
+}
+/*-- FEEDBACK --*/
+
+
+
+
+/*-- Admin --*/
+#AdmBx{
+	float:left;
+	width:704px;
+	height:auto;
+	background-color: #FFFFFF;
+	padding:0px 10px 10px 10px;
+}
+#AdmHd{
+	width:694px;
+	height:20px;
+	padding-left:10px;
+	padding-top:10px;
+}
+#AdmTxt{
+	float:left;
+	width:240px;
+	height:30px;
+	text-align:right;
+}
+#AdmInp{
+	float:left;
+	width:450px;
+	height:30px;
+	text-align:left;
+	padding-left:10px;
+}
+#AdmTxtAr{
+	float:left;
+	width:240px;
+	height:100px;
+	text-align:right;
+}
+#AdmInpAr{
+	float:left;
+	width:450px;
+	height:100px;
+	text-align:left;
+	padding-left:10px;
+}
+#AdmVwHd{
+	width:694px;
+	height:30px;
+	background-color:#F5D8AF;
+	margin-top:10px;
+}
+#AdmVwBx{
+	width:694px;
+	height:auto;
+	border-bottom:1px dashed #CCCCCC;
+	padding:0px 0px 10px 0px;
+	margin-top:5px;
+}
+#AdmSn{
+	float:left;
+	width:44px;
+	height:auto;
+	padding:8px 0px 0px 0px;
+	text-align:center;
+}
+#AdmTit{
+	float:left;
+	width:192px;
+	height:auto;
+	padding:8px 0px 0px 8px;
+}
+#AdmDsp{
+	float:left;
+	width:262px;
+	height:auto;
+	padding:8px 0px 0px 8px;
+}
+#AdmAct{
+	float:left;
+	width:90px;
+	height:auto;
+	padding:8px 0px 0px 0px;
+	text-align:center;
+}
+#AdmSt{
+	float:left;
+	width:90px;
+	height:auto;
+	padding:8px 0px 0px 0px;
+	text-align:center;
+}
+#AdmATxt{
+	float:left;
+	width:240px;
+	height:auto;
+	text-align:right;
+	margin-top:10px;
+}
+#AdmAInp{
+	float:left;
+	width:440px;
+	height:auto;
+	text-align:left;
+	padding-left:10px;
+	margin-top:10px;
+}
+/*-- Admin --*/
