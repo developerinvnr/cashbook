@@ -88,7 +88,7 @@ function ValidateForm()
 								</tr>
 								<tr height="10px">
 									<td width="120px"><b style="font-size:14px;color:#FFFFFF;">Cash Prefix&nbsp;:&nbsp;</b></td>
-									<td width="330px"><input name="cihPrefix" id="cihPrefix" maxlength="10" value="" size="45"/></td>
+									<td width="330px"><input name="cihPrefix" id="cihPrefix" maxlength="30" value="" size="45"/></td>
 								</tr>
 								</table>
 							</td>
